@@ -22,3 +22,7 @@ This project aims to:
 ![image](https://github.com/user-attachments/assets/e43fbf64-ba71-479f-9f08-51e3479d03c9)
 
 ![50f5ed78-fe1d-4a30-9436-afe572876b41 copy](https://github.com/user-attachments/assets/6f08c1db-bf8b-4d1e-a9a0-c4ea88166804)
+
+
+#EDIT
+Added seperate functionality to receive and transmit data between two ESP8266s.
